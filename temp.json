@@ -1,0 +1,12 @@
+{
+  stateList: [
+    {
+      state: "Arkansas",
+      code: "AR"
+    },
+    {
+      state: "California",
+      code: "CA"
+    }
+  ]
+}
